@@ -1,0 +1,26 @@
+_repo: The-Last-of-Mrs.-DeBrugh_32468
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32468-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sivia, H.
+    gutenberg_agent_id: '35863'
+    url: http://www.gutenberg.org/2009/agents/35863
+description: ''
+gutenberg_issued: '2010-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32468'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Household employees -- Fiction'
+- !lcsh 'Ghost stories'
+- !lcc 'PS'
+title: The Last of Mrs. DeBrugh
+url: http://www.gutenberg.org/ebooks/32468
